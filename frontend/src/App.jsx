@@ -48,7 +48,7 @@ const App = () => {
   className="hero min-h-screen"
   style={{
     backgroundImage:
-      "url(https://img.daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.webp)",
+      "url(https://img.freepik.com/premium-photo/sci-futuristic-fi-abstract-background_1006786-4317.jpg)",
   }}
 >
   <div className="hero-overlay"></div>
